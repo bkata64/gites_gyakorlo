@@ -1,1 +1,4 @@
 ez itt a függvény
+
+ez itt egy másik függvény
+
